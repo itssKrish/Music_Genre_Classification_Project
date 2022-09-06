@@ -10,3 +10,7 @@
 6. Librosa
 7. Sklearn
 8. Matplotlib
+
+### Method Used : CNN
+
+### Model Accuracy : 91%
